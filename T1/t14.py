@@ -10,7 +10,7 @@ def histogram( items ):
           times = times - 1
         print(output)
 
-histogram([2, 3, 6, 5])
+histogram([2, 3, 6, 10])
 
 # Write a Python program to concatenate all elements in a list into a string and return it.
 
