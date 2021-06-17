@@ -19,3 +19,10 @@ name = input('enter your name:')
 age = input('enter you age:')
 
 personal_details(name, age)
+
+f=open("abc.txt", "w")
+
+a="rohit choudhary"
+
+f.write(a)
+f.close()
